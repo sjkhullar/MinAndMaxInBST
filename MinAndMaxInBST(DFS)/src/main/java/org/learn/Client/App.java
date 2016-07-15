@@ -42,7 +42,7 @@ public class App {
 		F.left  = L;
 		F.right = M;
 		
-		System.out.println("Min value in Binary Tree is : " + MinAndMaxInBST.min(A));
-		System.out.println("Max value in Binary Tree is : " + MinAndMaxInBST.max(A));
+		System.out.println("Min value in BST is : " + MinAndMaxInBST.min(A));
+		System.out.println("Max value in BST is : " + MinAndMaxInBST.max(A));
 	}
 }
